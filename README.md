@@ -30,7 +30,6 @@ Weather-App/
 │── index.html # Main HTML file
 │── about.html # About page
 │── contact.html # Contact page
-│
 ├── static/
 │ ├── css/
 │ │ └── style.css # Custom styles
@@ -40,7 +39,6 @@ Weather-App/
 │ ├── images/
 │ │ ├── logoo.png
 │ │ └── graph.png
-│
 └── README.md # Project documentation
 
 🔑 API Integration
@@ -61,7 +59,7 @@ Make sure you generate your API keys and update them in the project files.
 
 (If you want API data to work, replace with your own OpenWeather API key inside script.js)
 
-📸 Screenshots
-🌍 Home Page
+📸 Screenshots🌍 Home Page
 <img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/4af7b962-8e0e-458a-8532-e55d9f2d78a4" />
 <img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/3572b140-8be4-47e9-b9fe-bfc3f2ffad2b" />
+
